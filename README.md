@@ -18,6 +18,7 @@
   CSS • JSX • Jinja • Git
 
   hobbies • reading, coding
+  
 
 ```
 <h2 align="center">
