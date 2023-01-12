@@ -3,7 +3,7 @@
 </h1>
 
 
-<img src="https://wallpaperaccess.com/full/869923.gif" width="500px" img align="left"/>
+<img src="https://wallpaperaccess.com/full/869923.gif" width="50%" img align="left"/>
 
 ```haskell
   I'm Efrain and I'm a software developer
