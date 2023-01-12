@@ -21,8 +21,3 @@
   
 
 ```
-<h2 align="center">
-  <p> Let's Connect </p>
-</21>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chilipeppermadness.com%2Frecipes%2Fold-bay-seasoning%2F&psig=AOvVaw1yN_YAgSBAqMWi9U09TkLI&ust=1673651416446000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPjZxf6Tw_wCFQAAAAAdAAAAABAE"/>
